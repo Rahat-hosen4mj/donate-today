@@ -1,0 +1,5 @@
+.banner-img{
+    background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)), url("../images/donation5.jpg");
+    background-size: cover;
+    height: 100vh;
+}
